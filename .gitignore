@@ -40,3 +40,7 @@ Thumbs.db
 # Python generated  files #
 ###########################
 *.pyc
+# Repository specific     #
+###########################
+./db
+*.html
